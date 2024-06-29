@@ -1,0 +1,427 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publisher": "Scribner",
+      "publication_year": 1925,
+      "Book_ShelfId": 1,
+      "quantity": 5
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publisher": "J. B. Lippincott & Co.",
+      "publication_year": 1960,
+      "Book_ShelfId": 2,
+      "quantity": 3
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "publisher": "Secker & Warburg",
+      "publication_year": 1949,
+      "Book_ShelfId": 3,
+      "quantity": 7
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publisher": "T. Egerton, Whitehall",
+      "publication_year": 1813,
+      "Book_ShelfId": 4,
+      "quantity": 2
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J. D. Salinger",
+      "publisher": "Little, Brown and Company",
+      "publication_year": 1951,
+      "Book_ShelfId": 5,
+      "quantity": 4
+    },
+    {
+      "title": "To the Lighthouse",
+      "author": "Virginia Woolf",
+      "publisher": "Hogarth Press",
+      "publication_year": 1927,
+      "Book_ShelfId": 6,
+      "quantity": 6
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "publisher": "Chatto & Windus",
+      "publication_year": 1932,
+      "Book_ShelfId": 7,
+      "quantity": 8
+    },
+    {
+      "title": "The Lord of the Rings",
+      "author": "J. R. R. Tolkien",
+      "publisher": "George Allen & Unwin",
+      "publication_year": 1954,
+      "Book_ShelfId": 8,
+      "quantity": 10
+    },
+    {
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "publisher": "Richard Bentley",
+      "publication_year": 1851,
+      "Book_ShelfId": 9,
+      "quantity": 3
+    },
+    {
+      "title": "The Stranger",
+      "author": "Albert Camus",
+      "publisher": "Gallimard",
+      "publication_year": 1942,
+      "Book_ShelfId": 10,
+      "quantity": 5
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "publisher": "Alfred A. Knopf",
+      "publication_year": 1987,
+      "Book_ShelfId": 1,
+      "quantity": 7
+    },
+    {
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut",
+      "publisher": "Delacorte Press",
+      "publication_year": 1969,
+      "Book_ShelfId": 2,
+      "quantity": 4
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "publisher": "McClelland and Stewart",
+      "publication_year": 1985,
+      "Book_ShelfId": 3,
+      "quantity": 6
+    },
+    {
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "publisher": "Simon & Schuster",
+      "publication_year": 1961,
+      "Book_ShelfId": 4,
+      "quantity": 3
+    },
+    {
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "publisher": "Thomas Cautley Newby",
+      "publication_year": 1847,
+      "Book_ShelfId": 5,
+      "quantity": 8
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "publisher": "Ward, Lock, and Company",
+      "publication_year": 1890,
+      "Book_ShelfId": 6,
+      "quantity": 5
+    },
+    {
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "publisher": "Lackington, Hughes, Harding, Mavor & Jones",
+      "publication_year": 1818,
+      "Book_ShelfId": 7,
+      "quantity": 9
+    },
+    {
+      "title": "The Odyssey",
+      "author": "Homer",
+      "publisher": "Various ancient Greek publishers",
+      "publication_year": -800,
+      "Book_ShelfId": 8,
+      "quantity": 2
+    },
+    {
+      "title": "Anna Karenina",
+      "author": "Leo Tolstoy",
+      "publisher": "The Russian Messenger",
+      "publication_year": 1877,
+      "Book_ShelfId": 9,
+      "quantity": 4
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "publisher": "The Russian Messenger",
+      "publication_year": 1880,
+      "Book_ShelfId": 10,
+      "quantity": 7
+    },
+    {
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "publisher": "Smith, Elder & Co.",
+      "publication_year": 1847,
+      "Book_ShelfId": 1,
+      "quantity": 3
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "publisher": "Editorial Sudamericana",
+      "publication_year": 1967,
+      "Book_ShelfId": 2,
+      "quantity": 6
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "publisher": "The Viking Press",
+      "publication_year": 1939,
+      "Book_ShelfId": 3,
+      "quantity": 8
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J. R. R. Tolkien",
+      "publisher": "George Allen & Unwin",
+      "publication_year": 1937,
+      "Book_ShelfId": 4,
+      "quantity": 10
+    },
+    {
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "publisher": "William Blackwood and Sons",
+      "publication_year": 1871,
+      "Book_ShelfId": 5,
+      "quantity": 4
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "publisher": "The Russian Messenger",
+      "publication_year": 1866,
+      "Book_ShelfId": 6,
+      "quantity": 7
+    },
+    {
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "publisher": "The Russian Messenger",
+      "publication_year": 1869,
+      "Book_ShelfId": 7,
+      "quantity": 9
+    },
+    {
+      "title": "Ulysses",
+      "author": "James Joyce",
+      "publisher": "Sylvia Beach",
+      "publication_year": 1922,
+      "Book_ShelfId": 8,
+      "quantity": 2
+    },
+    {
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "publisher": "Ticknor, Reed & Fields",
+      "publication_year": 1850,
+      "Book_ShelfId": 9,
+      "quantity": 5
+    },
+    {
+      "title": "Les Misérables",
+      "author": "Victor Hugo",
+      "publisher": "A. Lacroix, Verboeckhoven & Cie",
+      "publication_year": 1862,
+      "Book_ShelfId": 10,
+      "quantity": 8
+    },
+    {
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "publisher": "Chapman & Hall",
+      "publication_year": 1861,
+      "Book_ShelfId": 1,
+      "quantity": 3
+    },
+    {
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "publisher": "Francisco de Robles",
+      "publication_year": 1605,
+      "Book_ShelfId": 2,
+      "quantity": 6
+    },
+    {
+      "title": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "publisher": "Charles L. Webster And Company",
+      "publication_year": 1884,
+      "Book_ShelfId": 3,
+      "quantity": 8
+    },
+    {
+      "title": "Gone with the Wind",
+      "author": "Margaret Mitchell",
+      "publisher": "Macmillan Publishers",
+      "publication_year": 1936,
+      "Book_ShelfId": 4,
+      "quantity": 10
+    },
+    {
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "publisher": "Ponson du Terrail",
+      "publication_year": 1844,
+      "Book_ShelfId": 5,
+      "quantity": 4
+    },
+    {
+      "title": "The Iliad",
+      "author": "Homer",
+      "publisher": "Various ancient Greek publishers",
+      "publication_year": -800,
+      "Book_ShelfId": 6,
+      "quantity": 7
+    },
+    {
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "publisher": "Thomas Egerton",
+      "publication_year": 1811,
+      "Book_ShelfId": 7,
+      "quantity": 9
+    },
+    {
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "publisher": "Bradbury & Evans",
+      "publication_year": 1850,
+      "Book_ShelfId": 8,
+      "quantity": 2
+    },
+    {
+      "title": "Robinson Crusoe",
+      "author": "Daniel Defoe",
+      "publisher": "W. Taylor",
+      "publication_year": 1719,
+      "Book_ShelfId": 9,
+      "quantity": 5
+    },
+    {
+      "title": "Madame Bovary",
+      "author": "Gustave Flaubert",
+      "publisher": "La Revue de Paris",
+      "publication_year": 1857,
+      "Book_ShelfId": 10,
+      "quantity": 8
+    },
+    {
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "publisher": "Various Italian publishers",
+      "publication_year": 1308,
+      "Book_ShelfId": 1,
+      "quantity": 4
+    },
+    {
+      "title": "The Canterbury Tales",
+      "author": "Geoffrey Chaucer",
+      "publisher": "Various medieval English publishers",
+      "publication_year": 1400,
+      "Book_ShelfId": 2,
+      "quantity": 7
+    },
+    {
+      "title": "The Trial",
+      "author": "Franz Kafka",
+      "publisher": "Kurt Wolff Verlag",
+      "publication_year": 1925,
+      "Book_ShelfId": 3,
+      "quantity": 9
+    },
+    {
+      "title": "Bleak House",
+      "author": "Charles Dickens",
+      "publisher": "Bradbury & Evans",
+      "publication_year": 1853,
+      "Book_ShelfId": 4,
+      "quantity": 3
+    },
+    {
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "publisher": "Chapman & Hall",
+      "publication_year": 1859,
+      "Book_ShelfId": 5,
+      "quantity": 6
+    },
+    {
+      "title": "Persuasion",
+      "author": "Jane Austen",
+      "publisher": "John Murray",
+      "publication_year": 1817,
+      "Book_ShelfId": 6,
+      "quantity": 8
+    },
+    {
+      "title": "The Sun Also Rises",
+      "author": "Ernest Hemingway",
+      "publisher": "Scribner",
+      "publication_year": 1926,
+      "Book_ShelfId": 7,
+      "quantity": 10
+    },
+    {
+      "title": "The Sound and the Fury",
+      "author": "William Faulkner",
+      "publisher": "Jonathan Cape & Harrison Smith",
+      "publication_year": 1929,
+      "Book_ShelfId": 8,
+      "quantity": 4
+    },
+    {
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "publisher": "The Viking Press",
+      "publication_year": 1939,
+      "Book_ShelfId": 9,
+      "quantity": 7
+    },
+    {
+      "title": "For Whom the Bell Tolls",
+      "author": "Ernest Hemingway",
+      "publisher": "Charles Scribner's Sons",
+      "publication_year": 1940,
+      "Book_ShelfId": 10,
+      "quantity": 9
+    },
+    {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "publisher": "Charles Scribner's Sons",
+      "publication_year": 1952,
+      "Book_ShelfId": 1,
+      "quantity": 2
+    },
+    {
+      "title": "Of Mice and Men",
+      "author": "John Steinbeck",
+      "publisher": "Covici Friede",
+      "publication_year": 1937,
+      "Book_ShelfId": 2,
+      "quantity": 5
+    },
+    {
+      "title": "The Idiot",
+      "author": "Fyodor Dostoevsky",
+      "publisher": "The Russian Messenger",
+      "publication_year": 1869,
+      "Book_ShelfId": 3,
+      "quantity": 8
+    }
+  ]
+  
