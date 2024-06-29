@@ -1,0 +1,152 @@
+[
+  {
+    "NIM": "1234567890",
+    "name": "John Doe",
+    "major": "Computer Science",
+    "status": true
+  },
+  {
+    "NIM": "2345678901",
+    "name": "Jane Smith",
+    "major": "Electrical Engineering",
+    "status": false
+  },
+  {
+    "NIM": "3456789012",
+    "name": "Michael Johnson",
+    "major": "Business Administration",
+    "status": true
+  },
+  {
+    "NIM": "4567890123",
+    "name": "Emily Brown",
+    "major": "Psychology",
+    "status": true
+  },
+  {
+    "NIM": "5678901234",
+    "name": "David Lee",
+    "major": "History",
+    "status": false
+  },
+  {
+    "NIM": "6789012345",
+    "name": "Jessica Garcia",
+    "major": "Political Science",
+    "status": true
+  },
+  {
+    "NIM": "7890123456",
+    "name": "Daniel Martinez",
+    "major": "Mechanical Engineering",
+    "status": true
+  },
+  {
+    "NIM": "8901234567",
+    "name": "Sarah Wilson",
+    "major": "English Literature",
+    "status": false
+  },
+  {
+    "NIM": "9012345678",
+    "name": "Andrew Taylor",
+    "major": "Chemistry",
+    "status": true
+  },
+  {
+    "NIM": "0123456789",
+    "name": "Olivia Anderson",
+    "major": "Biology",
+    "status": true
+  },
+  {
+    "NIM": "0987654321",
+    "name": "Matthew Hernandez",
+    "major": "Economics",
+    "status": false
+  },
+  {
+    "NIM": "9876543210",
+    "name": "Sophia Martinez",
+    "major": "Sociology",
+    "status": true
+  },
+  {
+    "NIM": "8765432109",
+    "name": "Ethan Gonzalez",
+    "major": "Mathematics",
+    "status": true
+  },
+  {
+    "NIM": "7654321098",
+    "name": "Isabella Perez",
+    "major": "Philosophy",
+    "status": false
+  },
+  {
+    "NIM": "6543210987",
+    "name": "Alexander Rodriguez",
+    "major": "Physics",
+    "status": true
+  },
+  {
+    "NIM": "5432109876",
+    "name": "Mia Torres",
+    "major": "Fine Arts",
+    "status": true
+  },
+  {
+    "NIM": "4321098765",
+    "name": "James Flores",
+    "major": "Music",
+    "status": false
+  },
+  {
+    "NIM": "3210987654",
+    "name": "Ava Lopez",
+    "major": "Communication",
+    "status": true
+  },
+  {
+    "NIM": "2109876543",
+    "name": "Benjamin Scott",
+    "major": "Journalism",
+    "status": true
+  },
+  {
+    "NIM": "1098765432",
+    "name": "Charlotte Hill",
+    "major": "Graphic Design",
+    "status": false
+  },
+  {
+    "NIM": "9876543210",
+    "name": "Lucas Green",
+    "major": "Environmental Science",
+    "status": true
+  },
+  {
+    "NIM": "8765432109",
+    "name": "Grace Adams",
+    "major": "Health Sciences",
+    "status": true
+  },
+  {
+    "NIM": "7654321098",
+    "name": "Ryan Baker",
+    "major": "Public Health",
+    "status": false
+  },
+  {
+    "NIM": "6543210987",
+    "name": "Chloe Wright",
+    "major": "Nutrition",
+    "status": true
+  },
+  {
+    "NIM": "5432109876",
+    "name": "Jacob Reed",
+    "major": "Veterinary Science",
+    "status": true
+  }
+]

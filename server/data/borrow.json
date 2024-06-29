@@ -1,0 +1,122 @@
+[
+  {
+    "date_borrow": "2024-06-15",
+    "date_return": "2024-06-28",
+    "status": true,
+    "StudentId": 5
+  },
+  {
+    "date_borrow": "2024-06-10",
+    "date_return": null,
+    "status": false,
+    "StudentId": 18
+  },
+  {
+    "date_borrow": "2024-06-20",
+    "date_return": null,
+    "status": false,
+    "StudentId": 12
+  },
+  {
+    "date_borrow": "2024-06-25",
+    "date_return": null,
+    "status": false,
+    "StudentId": 1
+  },
+  {
+    "date_borrow": "2024-06-18",
+    "date_return": "2024-06-30",
+    "status": true,
+    "StudentId": 7
+  },
+  {
+    "date_borrow": "2024-06-12",
+    "date_return": null,
+    "status": false,
+    "StudentId": 23
+  },
+  {
+    "date_borrow": "2024-06-22",
+    "date_return": null,
+    "status": false,
+    "StudentId": 9
+  },
+  {
+    "date_borrow": "2024-06-05",
+    "date_return": null,
+    "status": false,
+    "StudentId": 14
+  },
+  {
+    "date_borrow": "2024-06-08",
+    "date_return": null,
+    "status": false,
+    "StudentId": 20
+  },
+  {
+    "date_borrow": "2024-06-16",
+    "date_return": "2024-06-29",
+    "status": true,
+    "StudentId": 3
+  },
+  {
+    "date_borrow": "2024-06-14",
+    "date_return": null,
+    "status": false,
+    "StudentId": 16
+  },
+  {
+    "date_borrow": "2024-06-21",
+    "date_return": null,
+    "status": false,
+    "StudentId": 8
+  },
+  {
+    "date_borrow": "2024-06-19",
+    "date_return": null,
+    "status": false,
+    "StudentId": 10
+  },
+  {
+    "date_borrow": "2024-06-11",
+    "date_return": null,
+    "status": false,
+    "StudentId": 25
+  },
+  {
+    "date_borrow": "2024-06-17",
+    "date_return": "2024-06-26",
+    "status": true,
+    "StudentId": 4
+  },
+  {
+    "date_borrow": "2024-06-09",
+    "date_return": null,
+    "status": false,
+    "StudentId": 21
+  },
+  {
+    "date_borrow": "2024-06-23",
+    "date_return": null,
+    "status": false,
+    "StudentId": 6
+  },
+  {
+    "date_borrow": "2024-06-07",
+    "date_return": null,
+    "status": false,
+    "StudentId": 13
+  },
+  {
+    "date_borrow": "2024-06-13",
+    "date_return": null,
+    "status": false,
+    "StudentId": 22
+  },
+  {
+    "date_borrow": "2024-06-24",
+    "date_return": null,
+    "status": false,
+    "StudentId": 2
+  }
+]

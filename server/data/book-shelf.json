@@ -1,0 +1,43 @@
+[
+    {
+      "name": "A",
+      "description": "Fiksi"
+    },
+    {
+      "name": "B",
+      "description": "Nonfiksi"
+    },
+    {
+      "name": "C",
+      "description": "Klasik"
+    },
+    {
+      "name": "D",
+      "description": "Romantis"
+    },
+    {
+      "name": "E",
+      "description": "Sains"
+    },
+    {
+      "name": "F",
+      "description": "Sejarah"
+    },
+    {
+      "name": "G",
+      "description": "Pendidikan"
+    },
+    {
+      "name": "H",
+      "description": "Bisnis"
+    },
+    {
+      "name": "I",
+      "description": "Puisi"
+    },
+    {
+      "name": "J",
+      "description": "Biografi"
+    }
+  ]
+  
